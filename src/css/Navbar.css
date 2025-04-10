@@ -1,0 +1,17 @@
+.nav-menu{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: aqua;
+}
+
+
+.nav-link{
+    color: rgb(59, 58, 58);  
+}
+
+.logo{
+    width:6rem ;
+    border-radius: 100px;
+    
+}
