@@ -2,11 +2,13 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    padding: 2rem;
     background-color: aqua;
 }
 
 
 .nav-link{
+    text-decoration: none;
     color: rgb(59, 58, 58);  
 }
 

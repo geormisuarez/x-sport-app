@@ -11,6 +11,7 @@ const Navbar = () => {
             <a className='nav-link' href="">Skate</a>
             <a className='nav-link' href="">Patines</a>
             <a className='nav-link' href="">Bicicletas</a>
+            <a className='nav-link' href="">Proteccion</a>
             <CartWidget/>
         </nav>
 
